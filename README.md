@@ -5,7 +5,7 @@
 
 ## Overview
 
-**The Hollow** is a text-based horror adventure game written in Python. You play as a person who has entered an abandoned farmhouse and must uncover its dark secret — and escape with your mind (and life) intact.
+**The Hollow** is a text-based horror adventure game written in Python. You play as a person who has entered an abandoned farmhouse and must uncover its dark secret, and escape with your mind (and life) intact.
 
 The game features room exploration, a dynamic inventory system, a sanity mechanic, multiple endings, and save/load functionality via JSON.
 
@@ -13,7 +13,7 @@ The game features room exploration, a dynamic inventory system, a sanity mechani
 
 ## How to Run
 
-**Requirements:** Python 3.8 or higher — no external libraries needed.
+**Requirements:** Python 3.8 or higher
 
 ```bash
 python game.py
@@ -88,5 +88,5 @@ There are **4 possible endings** — your choices in the final room, combined wi
 
 ## Author
 
-*Your Name Here*  
+Elizabeth Kirkner  
 Python Programming — Final Project
